@@ -232,7 +232,7 @@
 
   .header{
     position: fixed;
-    width: 1005px;
+    width: 100%;
     top: 0;
     left: 0;
     background-color: var(--body-color);
